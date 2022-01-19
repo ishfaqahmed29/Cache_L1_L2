@@ -1,5 +1,5 @@
 # Cache_L1_L2
-## This repo demonstrates the RTL Design of a Fully Associative, 32-Entry, Read-Only, Cache Memory Interface using Computer Architecture Fundamentals and SystemVerilog
+## This repo demonstrates the RTL Design of a Fully Associative, 32-Entry, Read-Only, Cache Memory Interface
 
 ![Untitled Workspace](https://user-images.githubusercontent.com/34355989/137039327-a4e9d75a-b4b3-47ab-b45f-8edef508b581.jpg)
 
